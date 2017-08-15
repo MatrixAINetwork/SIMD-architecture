@@ -1,2 +1,2 @@
 # SIMD-architecture
-Overall architecture for ABC implementing multipreocessors of SIMD cores.
+Overall architecture for Bayesian Computer's multiprocessors of SIMD cores.
